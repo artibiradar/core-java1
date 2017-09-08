@@ -1,0 +1,15 @@
+WAP to display your name on the screen.
+WAP to display your friends name on the screen.
+WAP to print an Integer (Entered by the User)
+WAP to calculate the increment of a given number by 1
+WAP to calculate the increment of a given number by 7
+WAP to calculate the addition of 2 numbers.
+WAP to calculate the multiplication of three numbers.
+WAP  to Compute Quotient and Remainder 
+WAP  to Multiply two Floating Point Numbers
+WAP to calculate the area of Square.
+WAP to calculate the perimeter and area of Rectangle
+WAP to calculate the area of Circle
+WAP to calculate the Simple Interest
+WAP to find the average of 5 numbers.
+WAP to find the ASCII code for any character?

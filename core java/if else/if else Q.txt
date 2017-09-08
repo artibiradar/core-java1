@@ -1,0 +1,30 @@
+WAP to check whether a number is even or odd.
+WAP to check whether a person is eligible for vote or not
+WAP to check whether a number is greater than 10 or not
+WAP to find the greater of two numbers
+WAP to find the greater of three numbers
+WAP to check whether a no is +ve,-ve or zero
+WAP to check the equality of two numbers.
+WAP to check whether the entered character is alplabet or non alphabet
+WAP to check whether the entered character is uppercase or lower case
+WAP to change the case of a character
+WAP to swap two numbers
+WAP to Check Whether a Character is Vowel or Consonant
+WAP to check leap year
+WAP to check whether the average of five no is greater than 10 or not
+WAP to check whether the output of addition of two numbers is greater than 100 or not.
+WAP to Swap Numbers without using 3rd variable
+WAP  to Find all Roots of a Quadratic equation
+WAP to display the grades of the student based on the following criteria:
+                   a)>=90,then  Grade A
+                   b)>=80 and <90,then Grade B
+                   c)>=60 and <80,then Grade C
+                   d)>=45 and <60,then Grade D
+                   e)<45,then fail
+ 
+Decision Making-Switch Case
+WAP to check whether the entered character is vowel or consonant.
+WAP to display the corresponding days of the week.
+WAP to display the corresponding month of Year.
+WAP to design calculator using switch case.
+wAP to calculate area of different polygons using switch case.
